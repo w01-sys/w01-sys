@@ -20,7 +20,7 @@
 
 ### 🚀 Currently Working On
 
-- 🕵️ Sharpening **threat detection & SOC analyst skills** — log analysis, alert triage, and identifying indicators of compromise, in preparation for SOC-focused roles (currently prepping for a **Huntress** application)
+- 🕵️ Sharpening **threat detection & SOC analyst skills** — log analysis, alert triage, and identifying indicators of compromise, in preparation for SOC-focused roles 
 - 📡 Practicing traffic analysis and investigation workflows with **Wireshark**
 - 🧪 Working through detection scenarios in home-lab environments using **Kali Linux** and **Metasploitable**
 - 📖 Reinforcing **OWASP Top 10** concepts for secure web application awareness
