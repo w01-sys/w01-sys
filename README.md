@@ -14,7 +14,6 @@
 - 🔍 Focused on **network security, threat detection, and vulnerability assessment**
 - 🛡️ Comfortable across **Windows, macOS, and Linux** environments
 - 💬 Strong background in customer-facing roles — used to handling sensitive information, working under pressure, and clear communication (skills that translate directly into SOC/incident response work)
-- 📫 Reach me at: **Abwalidshehu@gmail.com**
 
 ---
 
